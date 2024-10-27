@@ -1,0 +1,17 @@
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\bin\Debug\net8.0-windows\WorkShiftManagement.exe
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\bin\Debug\net8.0-windows\WorkShiftManagement.deps.json
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\bin\Debug\net8.0-windows\WorkShiftManagement.runtimeconfig.json
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\bin\Debug\net8.0-windows\WorkShiftManagement.dll
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\bin\Debug\net8.0-windows\WorkShiftManagement.pdb
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.Form1.resources
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.vbproj.GenerateResource.cache
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.AssemblyInfoInputs.cache
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.AssemblyInfo.vb
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.vbproj.CoreCompileInputs.cache
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.dll
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\refint\WorkShiftManagement.dll
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.pdb
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.genruntimeconfig.cache
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\ref\WorkShiftManagement.dll
+C:\Users\ecwt2\source\repos\WorkShiftManagement\WorkShiftManagement\obj\Debug\net8.0-windows\WorkShiftManagement.Resources.resources
